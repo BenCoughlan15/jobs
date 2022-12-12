@@ -33,8 +33,9 @@ We don't expect people to be experts with all of the technology we use or to imm
  - Significant experience in building and operating scalable, mission-critical environments
  - Significant experience working with and supporting wider engineering teams with a variety of needs and experience levels
  - Experience with public cloud environments (Google Cloud a bonus)
- - Experience with k8s
- - Experience building scalable deployment pipelines using tools like ArgoCD, Circleci, and Terraform
+ - Extensive production experience with kubernetes (Service mesh and Api-Gateway are a bonus)
+ - Experience building scalable deployment pipelines using tools like ArgoCD and Terraform
+ - Experience with GitOps
  - A track record of building maintainable and easy to operate systems
  
 ### **Any combination of the following would make your application stand out**
@@ -42,10 +43,11 @@ We don't expect people to be experts with all of the technology we use or to imm
  - Experience working with open telemetry tools
  - Experience working with Prometheus Stack
  - Experience working with Go
- - Experience working with Ruby and Rails
- - Experience building with and scaling Postgres
  - Experience building with and scaling Redis
  - Experience with event-driven architectures and frameworks
+ - Experience with multi-region environments
+ - Experience with GRPC
+ - Experienve with distributed systems
 
 ### The interview process
 The interview process will focus on four areas: your experience building and operating systems; your technical skills; and, your ability to work within and support a wider engineering organisation; how you'll fit in culturally with the rest of the team.
